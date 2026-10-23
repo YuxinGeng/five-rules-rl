@@ -1,0 +1,2 @@
+norm,target_strategy,seed,time,n_agents,count_CCCC,count_CCCD,count_CCDC,count_CCDD,count_CDCC,count_CDCD,count_CDDC,count_CDDD,count_DCCC,count_DCCD,count_DCDC,count_DCDD,count_DDCC,count_DDCD,count_DDDC,count_DDDD,good_reputation_fraction,target_count,target_fraction,all_target
+L3,CDCD,0,2000000,1000,0,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0.956,1000,1.0,True

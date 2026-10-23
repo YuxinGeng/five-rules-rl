@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.10
+seaborn>=0.13
+numba>=0.59
+scipy>=1.11
+sympy>=1.12
+ipython>=8.0
+joblib>=1.3
